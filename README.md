@@ -11,3 +11,11 @@ If you are a non-technical business professional, “AI for Everyone” will hel
 - What makes an AI company?
 - What Machine Learning can and cannot do
 - Intuitive explanation of deep learning
+
+## [Week 2: Building AI Projects](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-2)
+- Workflow of a Machine Learning project
+- Workflow of a Data Science project
+- Every job function needs to learn to use data
+- How to choose an AI project
+- Working with an AI team
+- Technical tools for AI teams
