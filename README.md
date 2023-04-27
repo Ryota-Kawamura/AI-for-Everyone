@@ -19,3 +19,13 @@ If you are a non-technical business professional, “AI for Everyone” will hel
 - How to choose an AI project
 - Working with an AI team
 - Technical tools for AI teams
+
+## [Week 3: AI in Your Company](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-3)
+- Case study: Smart speaker
+- Case study: Self-driving car
+- Example roles of an AI team
+- AI Transformation Playbook
+- AI pitfalls to avoid
+- Taking your first step in AI
+- Survey of major AI applications
+- Survey of major AI techniques
