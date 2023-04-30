@@ -29,3 +29,12 @@ If you are a non-technical business professional, “AI for Everyone” will hel
 - Taking your first step in AI
 - Survey of major AI applications
 - Survey of major AI techniques
+
+## [Week 4: AI and Society](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-4)
+- A realistic view of AI
+- Discrimination / Bias
+- Adversarial attacks
+- Adverse uses
+- AI and developing nations
+- AI and jobs
+- Conclusion
