@@ -3,7 +3,20 @@ AI is not only for engineers. “AI for Everyone”, a non-technical course, wil
 
 If you are a non-technical business professional, “AI for Everyone” will help you understand how to build a sustainable AI strategy. If you are a machine learning engineer or data scientist, this is the course to ask your manager, VP or CEO to take if you want them to understand what you can (and cannot!) do.
 
-## [Week 1: What is AI](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-1)
+## About this Course
+AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take. 
+
+In this course, you will learn:
+- The meaning behind common AI terminology, including neural networks, machine learning, deep learning, and data science
+- What AI realistically can--and cannot--do
+- How to spot opportunities to apply AI to problems in your own organization
+- What it feels like to build machine learning and data science projects
+- How to work with an AI team and build an AI strategy in your company
+- How to navigate ethical and societal discussions surrounding AI
+
+Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
+
+### [Week 1: What is AI](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-1)
 - Introduction
 - Machine Learning
 - What is data
@@ -12,7 +25,7 @@ If you are a non-technical business professional, “AI for Everyone” will hel
 - What Machine Learning can and cannot do
 - Intuitive explanation of deep learning
 
-## [Week 2: Building AI Projects](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-2)
+### [Week 2: Building AI Projects](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-2)
 - Workflow of a Machine Learning project
 - Workflow of a Data Science project
 - Every job function needs to learn to use data
@@ -20,7 +33,7 @@ If you are a non-technical business professional, “AI for Everyone” will hel
 - Working with an AI team
 - Technical tools for AI teams
 
-## [Week 3: AI in Your Company](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-3)
+### [Week 3: AI in Your Company](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-3)
 - Case study: Smart speaker
 - Case study: Self-driving car
 - Example roles of an AI team
@@ -30,7 +43,7 @@ If you are a non-technical business professional, “AI for Everyone” will hel
 - Survey of major AI applications
 - Survey of major AI techniques
 
-## [Week 4: AI and Society](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-4)
+### [Week 4: AI and Society](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-4)
 - A realistic view of AI
 - Discrimination / Bias
 - Adversarial attacks
