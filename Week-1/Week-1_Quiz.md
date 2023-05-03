@@ -8,7 +8,7 @@
 - [x] Supervised learning
 - [ ] Unsupervised learning
 
-**3.** ![missing](images/C1_W1_Quiz.jpg)
+**3.** ![missing](images/C1_W1_Quiz.png)
 
 You want to use supervised learning to build a speech recognition system. The figure above suggests that in order for a neural network (deep learning) to achieve the best performance, you would ideally use: (Select all that apply)
 - [x] A large dataset (of audio files and the corresponding text transcript)
