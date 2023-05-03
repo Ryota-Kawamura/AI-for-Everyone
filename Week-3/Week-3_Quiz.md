@@ -10,7 +10,7 @@
 
 **3.** 
 
-![missing](images/C1_W3_Quiz_1.jpg)
+![missing](images/C1_W3_Quiz_1.png)
 
 The component for pedestrian detection is usually built using:
 - [ ] A motion planning algorithm
@@ -39,16 +39,16 @@ The component for pedestrian detection is usually built using:
 **7.** Say you are building a smart speaker, and want to accumulate data for your product through having many users. Which of these represents the “Virtuous circle of AI” for this product?
 - [x] (A)
 
-![missing](images/C1_W3_Quiz_2.jpg)
+![missing](images/C1_W3_Quiz_2.png)
 - [ ] (B)
 
-![missing](images/C1_W3_Quiz_3.jpg)
+![missing](images/C1_W3_Quiz_3.png)
 - [ ] (C)
 
-![missing](images/C1_W3_Quiz_4.jpg)
+![missing](images/C1_W3_Quiz_4.png)
 - [ ] (D)
 
-![missing](images/C1_W3_Quiz_5.jpg)
+![missing](images/C1_W3_Quiz_5.png)
 
 **8.** Why is developing an AI strategy NOT the first step in the AI Transformation Playbook?
 - [ ] There is no reason. Developing an AI strategy IS the first step in the AI Transformation Playbook.
