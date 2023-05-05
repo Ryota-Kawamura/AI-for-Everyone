@@ -16,7 +16,7 @@ In this course, you will learn:
 
 Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
 
-### [Week 1: What is AI](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-1)
+## [Week 1: What is AI](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-1/Week-1_Lecture-Note.pdf)
 - Introduction
 - Machine Learning
 - What is data
@@ -24,16 +24,18 @@ Though this course is largely non-technical, engineers can also take this course
 - What makes an AI company?
 - What Machine Learning can and cannot do
 - Intuitive explanation of deep learning
+- [Quiz](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-1/Week-1_Quiz.md)
 
-### [Week 2: Building AI Projects](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-2)
+## [Week 2: Building AI Projects](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-2/Week-2_Lecture-Note.pdf)
 - Workflow of a Machine Learning project
 - Workflow of a Data Science project
 - Every job function needs to learn to use data
 - How to choose an AI project
 - Working with an AI team
 - Technical tools for AI teams
+- [Quiz](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-2/Week-2_Quiz.md)
 
-### [Week 3: AI in Your Company](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-3)
+## [Week 3: AI in Your Company](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-3/Week-3_Lecture-Note.pdf)
 - Case study: Smart speaker
 - Case study: Self-driving car
 - Example roles of an AI team
@@ -42,8 +44,9 @@ Though this course is largely non-technical, engineers can also take this course
 - Taking your first step in AI
 - Survey of major AI applications
 - Survey of major AI techniques
+- [Quiz](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-3/Week-3_Quiz.md)
 
-### [Week 4: AI and Society](https://github.com/Ryota-Kawamura/AI-for-Everyone/tree/main/Week-4)
+## [Week 4: AI and Society](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-4/Week-4_Lecture-Note.pdf)
 - A realistic view of AI
 - Discrimination / Bias
 - Adversarial attacks
@@ -51,3 +54,4 @@ Though this course is largely non-technical, engineers can also take this course
 - AI and developing nations
 - AI and jobs
 - Conclusion
+- [Quiz](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-4/Week-4_Quiz.md)
