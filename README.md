@@ -16,7 +16,7 @@ In this course, you will learn:
 
 Though this course is largely non-technical, engineers can also take this course to learn the business aspects of AI.
 
-## [Week 1: What is AI](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-1/Week-1_Lecture-Note.pdf)
+## Week 1: What is AI
 - Introduction
 - Machine Learning
 - What is data
@@ -26,7 +26,7 @@ Though this course is largely non-technical, engineers can also take this course
 - Intuitive explanation of deep learning
 - [Quiz](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-1/Week-1_Quiz.md)
 
-## [Week 2: Building AI Projects](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-2/Week-2_Lecture-Note.pdf)
+##[Week 2: Building AI Projects
 - Workflow of a Machine Learning project
 - Workflow of a Data Science project
 - Every job function needs to learn to use data
@@ -35,7 +35,7 @@ Though this course is largely non-technical, engineers can also take this course
 - Technical tools for AI teams
 - [Quiz](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-2/Week-2_Quiz.md)
 
-## [Week 3: AI in Your Company](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-3/Week-3_Lecture-Note.pdf)
+## Week 3: AI in Your Company
 - Case study: Smart speaker
 - Case study: Self-driving car
 - Example roles of an AI team
@@ -46,7 +46,7 @@ Though this course is largely non-technical, engineers can also take this course
 - Survey of major AI techniques
 - [Quiz](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-3/Week-3_Quiz.md)
 
-## [Week 4: AI and Society](https://github.com/Ryota-Kawamura/AI-for-Everyone/blob/main/Week-4/Week-4_Lecture-Note.pdf)
+## Week 4: AI and Society
 - A realistic view of AI
 - Discrimination / Bias
 - Adversarial attacks
